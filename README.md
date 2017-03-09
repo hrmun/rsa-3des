@@ -1,7 +1,7 @@
 # RSA-3DES
 C++ RSA-3DES handshake and data communication program using crypto++ library
 
-Station setup and execution
+Station setup and execution:
 
 - Go to Windows Run > CMD
 - Enter 'cd Desktop\<Folder-Name>\RSA-3DES\Debug'
