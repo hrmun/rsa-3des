@@ -1,6 +1,3 @@
-// Mun Hao Ran
-// J14014976 / 4809920
-
 /* Operation.cpp */
 #define _CRT_SECURE_NO_WARNINGS
 
