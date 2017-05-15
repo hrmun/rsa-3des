@@ -1,6 +1,3 @@
-// Mun Hao Ran
-// J14014976 / 4809920
-
 /* Operation.h */
 #include "../CryptoPP/osrng.h"
 using CryptoPP::AutoSeededRandomPool;
